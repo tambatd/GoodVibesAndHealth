@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  display: block;
 }
 
 .App-logo {
@@ -12,9 +13,11 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.content {
+  width: auto;
+}
 .App-header {
-  background-color: #282c34;
+  background-color: #363636;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +38,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+hr {
+  width: 100%;
+}
+
+.Vibes {
+  position: sticky;
+  overflow-x: scroll;
+  width: 300px;
 }
