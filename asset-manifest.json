@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/GoodVibesAndHealth/static/css/main.770c5923.chunk.css",
+    "main.css": "/GoodVibesAndHealth/static/css/main.95abcb42.chunk.css",
     "main.js": "/GoodVibesAndHealth/static/js/main.236c3bd5.chunk.js",
     "main.js.map": "/GoodVibesAndHealth/static/js/main.236c3bd5.chunk.js.map",
     "runtime-main.js": "/GoodVibesAndHealth/static/js/runtime-main.609c166c.js",
@@ -10,14 +10,14 @@
     "static/js/3.8ca23e8c.chunk.js": "/GoodVibesAndHealth/static/js/3.8ca23e8c.chunk.js",
     "static/js/3.8ca23e8c.chunk.js.map": "/GoodVibesAndHealth/static/js/3.8ca23e8c.chunk.js.map",
     "index.html": "/GoodVibesAndHealth/index.html",
-    "static/css/main.770c5923.chunk.css.map": "/GoodVibesAndHealth/static/css/main.770c5923.chunk.css.map",
+    "static/css/main.95abcb42.chunk.css.map": "/GoodVibesAndHealth/static/css/main.95abcb42.chunk.css.map",
     "static/js/2.7b95012e.chunk.js.LICENSE.txt": "/GoodVibesAndHealth/static/js/2.7b95012e.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/GoodVibesAndHealth/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.609c166c.js",
     "static/js/2.7b95012e.chunk.js",
-    "static/css/main.770c5923.chunk.css",
+    "static/css/main.95abcb42.chunk.css",
     "static/js/main.236c3bd5.chunk.js"
   ]
 }
